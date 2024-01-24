@@ -1,0 +1,28 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#restaurants-container{
+    width: 800px;
+    border: 1px solid black;
+    background-color: lightblue;
+    border-radius: 10px;  
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.restocard{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    color: red;
+    border-radius: 5px;
+    padding: 2px;
+
+}
