@@ -5,7 +5,7 @@ const Restaurants = () => {
     return (
         <>
             <Restocard name="siva" cuisine="indian" rating="4.4"/>
-            <Restocard name="yadesh" cuisine="american" rating="2.4"/>
+            <Restocard name="yadesh" cuisine="american" rating="2.4"></Restocard>
             <Restocard name="vimal" cuisine="hyderabad style" rating="3.4"/>
         </>
             
